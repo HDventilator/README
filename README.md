@@ -19,3 +19,4 @@ This repository contains all relevant configuration files and scripts to build t
 ## mon-receiver 
 This is the component that runs on the monitoring-raspeberrypi to receive data from the arduino-controller, to feed it into influxdb for later display.
 ## mon-protocol 
+This repo contains information on the COBS-based protocol used for the serial data link between microcontroller and monitoring unit.
